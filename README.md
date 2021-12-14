@@ -5,7 +5,7 @@ Are existing prediction models biased?
 
 - Analytics use case(s): **Patient-Level Prediction**
 - Study type: **Methods Research, Clinical Application**
-- Tags: **Feature Selection**
+- Tags: **Health Equity**
 - Study lead: **Ross Williams**
 - Study lead forums tag: **[RossW](https://forums.ohdsi.org/u/RossW)**
 - Study start date: **2021-11-15**
