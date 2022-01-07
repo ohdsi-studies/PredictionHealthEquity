@@ -259,16 +259,21 @@ Specific aims:
 # Research Methods
 
 ## Target Populations
-
+  1) Patients with an initial hco interaction with Covid-19
+  2) non-valvular AF
+  3) New users of warfarin
 
 
 ## Outcomes and Time-at-risk
-
+    1) covid death 14 days
+    2) covid severity 30 days
+    3) stroke 365 days
+    4) Hemorrhage 365 days 
 
 ## Patient sub populations of interest
  1) sex
  2) various Race (this will need to be country specific)
- 3) intersection of above?
+ 3) intersection of above? age?
 
 ## Metrics
 
@@ -318,7 +323,9 @@ if (knitr::is_latex_output()) {
 # Strengths and Limitations
 
 ## Strengths
-
+- multiple models
+- multiple databases
+- collaborative research
 
 
 ## Limitations
@@ -368,7 +375,7 @@ This differs fundamentally from traditional studies that rarely open their analy
 We will publicly register this protocol and announce its availability for feedback from stakeholders, the OHDSI community and within clinical professional societies.
 This protocol will link to open source code for all steps to generate and evaluate prediction models, figures and tables.
 Such transparency is possible because we will construct our studies on top of the OHDSI toolstack of open source software tools that are community developed and rigorously tested [@Schuemie2020-wx].
-We will publicly host the source code at (https://github.com/ohdsi-studies/FeatureSelectionComparison), allowing public contribution and review, and free re-use for anyone’s future research.
+We will publicly host the source code at (https://github.com/ohdsi-studies/PredictionHealthEquity), allowing public contribution and review, and free re-use for anyone future research.
 
 ## Scientific meetings and publications
 
