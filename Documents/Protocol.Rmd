@@ -140,28 +140,22 @@ csl: jamia.csl
     
   * Design: Retrospecive cohort with external validation  
   * Target Populations: 
-    1) QCOVID (is uk specific, could be an issue)  Adults aged 19-100 years with one or two doses of covid-19 vaccination between 8 December 2020 and 15 June 2021.
+
     2) SEEK COVER: Patients with an initial interaction with a healthcare provider with a diagnosis of C19
     3) Chads2Vasc: non-valvular AF
     4) ATRIA Bleeding Risk Score: Patients newly intiating warfarin
     
   * Outcomes: 
-    1) Primary outcome was covid-19 related death. (from 14 days post vac)
     2) covid severity
     3) stroke
     4) Hemorrhage
 
   * Time-at-risk: 
-    1) 1 days to unknown days (would set this to a year)
     2) 1 days to 30 days
     3) 1 days to 365 days
     4) 1 days to 365 days
     
   * Covariates
-    
-    
-     QCOVID
-     
      
      Seek Cover
       1) Age
@@ -259,16 +253,15 @@ Specific aims:
 # Research Methods
 
 ## Target Populations
-  1) Patients with an initial hco interaction with Covid-19
+  1) Patients with an initial hcp interaction with Covid-19
   2) non-valvular AF
   3) New users of warfarin
 
 
 ## Outcomes and Time-at-risk
-    1) covid death 14 days
-    2) covid severity 30 days
-    3) stroke 365 days
-    4) Hemorrhage 365 days 
+    1) covid severity 30 days
+    2) stroke 365 days
+    3) Hemorrhage 365 days 
 
 ## Patient sub populations of interest
  1) sex
